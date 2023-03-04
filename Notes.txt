@@ -1,0 +1,15 @@
+*CREATE_ASP.NET_CORE_APP*
+-> Start a project 
+	-> Create new project
+		-> Select ASP.NET Web APP (MVC)
+
+
+*CREATE_VIEW*
+ -> Right click Views folder 
+	-> Select Add 
+		-> New Item
+			-> Select Razor View - Empty
+
+
+*COMMENTS_IN_CSHTML*
+-> @*  comment here *@

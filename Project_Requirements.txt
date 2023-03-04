@@ -1,0 +1,6 @@
+REQUIREMENTS_FOR_RSVP_APPLICATION
+
+-> Home page that shows infomration about the party
+-> A form that can be used to RSVP
+-> Validation for the RSVP form awhich will display a thank-you page after submission
+-> Summary page that will show who is coming to the RSVP
